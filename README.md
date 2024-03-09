@@ -9,3 +9,6 @@
 💡 Fluent in the languages of C++ and Python, with a sprinkle of Java magic!
 
 📫 Let's embark on this adventure together! Whether it's a coding session, a chat about our favorite dishes, or a friendly badminton showdown, I'm all in!
+![ShambhaviPandey2021's Stats](https://github-readme-stats.vercel.app/api?username=ShambhaviPandey2021&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ShambhaviPandey2021's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShambhaviPandey2021&theme=vue-dark&hide_border=true)
+![ShambhaviPandey2021's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShambhaviPandey2021&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
