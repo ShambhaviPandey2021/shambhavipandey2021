@@ -1,14 +1,26 @@
-🚀 Java Developer on a Mission to Conquer the Clouds with Oracle ☁️
+Certainly! Here's an updated version of your introduction including your proficiency in Python libraries and HTML/CSS:
 
-🌟 Hey there, I'm Shambhavi Pandey, a Java enthusiast with a passion for exploring the vast universe of cloud computing on Oracle Cloud.
+---
 
-💻 Currently embarking on an epic journey to master Java development while harnessing the power of Oracle's cloud solutions.
+## About Me
 
-🎨 When I'm not weaving magic with code, you can find me whipping up culinary delights in the kitchen, perfecting my badminton serve, or getting lost in the world of colors with my paintbrush.
+Hey there! 👋 I'm Shambhavi Pandey, currently in my third year pursuing a Bachelor's in Technology in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 
-💡 Fluent in the languages of C++ and Python, with a sprinkle of Java magic!
+### Skills
 
-📫 Let's embark on this adventure together! Whether it's a coding session, a chat about our favorite dishes, or a friendly badminton showdown, I'm all in!
+- **Languages:** I'm proficient in C++, Python, and have some experience with core Java.
+- **Python Libraries:** I'm well-versed in popular Python libraries such as Pandas, Seaborn, Matplotlib, and Scikit-learn for data analysis, visualization, and machine learning tasks.
+- **Web Development:** I also have experience with HTML and CSS for web development projects.
+
+### Education
+
+- **Bachelor's in Technology:** Currently pursuing a degree in Computer Science and Engineering with a specialization in AI and ML.
+
+### Interests
+
+When I'm not immersed in the world of code and algorithms, you can find me exploring new culinary adventures in the kitchen, honing my skills on the badminton court, or expressing my creativity through painting.
+
+
 
 
 ![ShambhaviPandey2021's Stats](https://github-readme-stats.vercel.app/api?username=ShambhaviPandey2021&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
