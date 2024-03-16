@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of your introduction including your proficiency in Python libraries and HTML/CSS:
-
 ---
 
 ## About Me
