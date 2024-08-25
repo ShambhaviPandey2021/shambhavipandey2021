@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm Shambhavi Pandey, currently in my third year pursuing a Bachelor's in Technology in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
+Hey there! 👋 I'm Shambhavi Pandey, currently in my fourth year pursuing a Bachelor's in Technology in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 
 ### Skills
 
